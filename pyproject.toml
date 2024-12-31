@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "chat-app-prjt-2025-01-micsvc"
+version = "0.1.0"
+description = "python chat app, with pubsub redis and postgresql"
+authors = ["manupanand"]
+license = "GNU"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
