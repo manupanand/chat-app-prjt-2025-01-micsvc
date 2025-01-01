@@ -1,3 +1,5 @@
+server/pub-sub/.venv
+
 .idea
 .venv
 .env
